@@ -1,0 +1,137 @@
+a {
+    color: #11999E;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-top: 50px;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #11999E;
+}
+
+hr {
+    height: 0;
+    color: #EAF6F6;
+    width: 10%;
+    border-style: dotted none;
+    border-width: 10px 0 0;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 55%;
+    left: 25%
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px;
+}
+
+.btn {
+    background: #11cedb;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 21px;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+.contact-p {
+    width: 40%;
+    margin: 40px auto;
+}
+
+.copyright {
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+
+.cplus {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link {
+    margin: 30px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #EAF6F6
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile-pic-face {
+    margin-top: 50px;
+    width: 15%;
+}
+
+.qa {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    overflow: hidden;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 10%;
+    right: 25%;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 150px;
+    background-color: #E2F8F6;
+}
+
+.web-dev {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
